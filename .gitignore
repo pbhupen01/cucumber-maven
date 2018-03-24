@@ -1,0 +1,14 @@
+.idea
+
+target
+
+/*.iml
+.gradle
+
+out/
+
+build/
+
+logs/
+
+out.html/
